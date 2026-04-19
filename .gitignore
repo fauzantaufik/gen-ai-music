@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model cache (large files, no need to commit)
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Audio output files
+*.wav
+*.mp3
+*.flac
+
+# Environment
+.env
+
+# Claude Code internal
+.claude/
