@@ -24,3 +24,6 @@ __pycache__/
 
 # Claude Code internal
 .claude/
+
+# Personal notes
+to-do.md
